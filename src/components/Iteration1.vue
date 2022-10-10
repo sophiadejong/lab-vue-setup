@@ -1,7 +1,6 @@
 <template>
     <img :src="imagen" />
-    <div :class="classes">Hola Mundo</div>
-    <div :style="{backgroundColor: 'blue', color: 'red'}">Hola Mundo</div>
+    <div :style="{backgroundColor: 'white', color: 'red'}">Hello there!</div>
  
  </template>
  <script setup>
